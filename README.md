@@ -22,4 +22,6 @@ Inspired by [HACKADAY - WHAT EVERYONE ELSE DID WITH EIGHT BITS, THE GERMANS DID 
   - 7 digital inputs
   - 6 digital outputs (7 if we want pseudo internal clock)
   - 5V input tolerance (EEPROM and clock reading)
-  
+ - Candidates:
+  - PIC16F84 (Obsolete)
+  - PIC16F88
