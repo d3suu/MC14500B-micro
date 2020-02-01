@@ -12,6 +12,7 @@ Inspired by [HACKADAY - WHAT EVERYONE ELSE DID WITH EIGHT BITS, THE GERMANS DID 
  [1](https://en.wikichip.org/w/images/5/5b/MC14500B_datasheet.pdf) 
  [2](http://www.brouhaha.com/~eric/retrocomputing/motorola/mc14500b/mc14500brev3.pdf) 
  [3](https://www.alldatasheet.com/datasheet-pdf/pdf/244447/MOTOROLA/MC14500B.html)
+ - Programming PIC in C: [instructables PDF](https://cdn.instructables.com/ORIG/FMW/C6LT/IJAEKC37/FMWC6LTIJAEKC37.pdf)
 
 ## "Gotcha" things
  - Duration of output spikes: 1 clock step
