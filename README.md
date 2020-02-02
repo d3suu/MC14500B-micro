@@ -13,6 +13,7 @@ Inspired by [HACKADAY - WHAT EVERYONE ELSE DID WITH EIGHT BITS, THE GERMANS DID 
  [2](http://www.brouhaha.com/~eric/retrocomputing/motorola/mc14500b/mc14500brev3.pdf) 
  [3](https://www.alldatasheet.com/datasheet-pdf/pdf/244447/MOTOROLA/MC14500B.html)
  - Programming PIC in C: [instructables PDF](https://cdn.instructables.com/ORIG/FMW/C6LT/IJAEKC37/FMWC6LTIJAEKC37.pdf)
+ - MC14500B Industrial Control Unit Handbook: [PDF](http://www.brouhaha.com/~eric/retrocomputing/motorola/mc14500b/mc14500b_icu_handbook.pdf)
 
 ## "Gotcha" things
  - Duration of output spikes: 1 clock step
