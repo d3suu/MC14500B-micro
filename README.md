@@ -26,3 +26,7 @@ Inspired by [HACKADAY - WHAT EVERYONE ELSE DID WITH EIGHT BITS, THE GERMANS DID 
  - Candidates:
    - PIC16F84 (Obsolete)
    - PIC16F88
+   - ATTINY44A/24A (only 12 I/O)
+   - ATTINY2313 (Cheap, 18 I/O)
+   - ATTINY48-PU (Overkill? 24-28 I/O, 4-bit Port A only on TQFP, QFN and UFBGA packages)
+   - ATTINY861V (16 I/O)
