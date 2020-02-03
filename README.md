@@ -14,6 +14,9 @@ Inspired by [HACKADAY - WHAT EVERYONE ELSE DID WITH EIGHT BITS, THE GERMANS DID 
  [3](https://www.alldatasheet.com/datasheet-pdf/pdf/244447/MOTOROLA/MC14500B.html)
  - Programming PIC in C: [instructables PDF](https://cdn.instructables.com/ORIG/FMW/C6LT/IJAEKC37/FMWC6LTIJAEKC37.pdf)
  - MC14500B Industrial Control Unit Handbook: [PDF](http://www.brouhaha.com/~eric/retrocomputing/motorola/mc14500b/mc14500b_icu_handbook.pdf)
+ - Setting up AVR-GCC and AVRDUDE: [HTML](http://www.linuxandubuntu.com/home/setting-up-avr-gcc-toolchain-and-avrdude-to-program-an-avr-development-board-in-ubuntu)
+ - AVR I/O Ports setup (Polish): [HTML](http://blog.szulczynski.com.pl/avr-porty-io-w-jezyku-c/)
+ - Using AVRDUDE (Polish): [HTML](http://mirley.firlej.org/programowanie_mikrokontrolerow_avrdude)
 
 ## "Gotcha" things
  - Duration of output spikes: 1 clock step
